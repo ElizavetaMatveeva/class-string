@@ -4,6 +4,7 @@
 #include <string.h>
 using namespace std;
 
+// Реализация собственного класса строка на основе стандартной библиотеки
 class string_s{
 public:
 	string_s(const char* s1) ; // Конструктор с параметром
